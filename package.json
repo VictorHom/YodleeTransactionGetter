@@ -1,6 +1,6 @@
 {
   "name": "yodlee-transactions",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "functions to pull aggregate transaction data from Yodlee api",
   "main": "index.js",
   "scripts": {
